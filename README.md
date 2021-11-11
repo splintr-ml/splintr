@@ -81,4 +81,4 @@ In terms of future updates to Splintr we have these features slated for the futu
 - Deep Compression
 - More Benchmark Datasets and Models
 
-Created By Varun Srinivasan (personal.varunsrinivasan@gmail.com)
+Created By Varun Srinivasan (personal.varunsrinivasan@gmail.com) and Shrey Shah (shrey@cs.wisc.edu)
